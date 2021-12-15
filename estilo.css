@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
+#fondo{
+    background-color: rgb(15, 17, 122);
+
+}
+
 #grilla{
     display: grid;
     grid-template-columns: 100%;
