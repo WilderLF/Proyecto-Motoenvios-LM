@@ -40,6 +40,7 @@ nav{
 }
 
 footer{
+    background-image: linear-gradient(180deg, #ffff77 0, #ffff6a 16.67%, #ffff5f 33.33%, #f2f253 50%, #c4d148 66.67%, #9db43f 83.33%, #7c9937 100%);
     font-size: 15px;
     text-align: center;
     display: flex;
